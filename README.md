@@ -23,6 +23,9 @@ This project is a fully functional e-commerce website built using **React.js**. 
   
 - **Purchase Flow:**
   - Users can make purchases from the cart after selecting desired products and quantities.
+  
+- **Responsive Design:**
+  - Users can Optimized for mobile, tablet, and desktop devices. 
 
 ## Technologies Used
 
