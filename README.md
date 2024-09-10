@@ -2,7 +2,7 @@
 
 # E-commerce Website
 
-This project is a fully functional e-commerce website built using **React.js**. The application allows users to authenticate and authorize via login and registration, browse various product categories, view product details, add products to the cart or wishlist, and make purchases. The project is styled with **Tailwind CSS** and **Flowbite** components and integrates libraries such as **axios**, **react-loader-spinner**, **react-slick**, and **react-hot-toast** for better functionality and user experience.
+This project is a fully functional e-commerce website built using **React.js**. The application allows users to authenticate and authorize via login and registration, browse various product categories, view product details, add products to the cart or wishlist, and make purchases. The project is styled with **Tailwind CSS** and **Flowbite** components and integrates libraries such as **axios**, **TanStack Query**و **react-loader-spinner**, **react-slick**, and **react-hot-toast** for better functionality and user experience.
 
 ## Features
 
