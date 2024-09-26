@@ -35,7 +35,7 @@ export default function ForgetPassword() {
     })
 
     return (<>
-        <h1 className='py-6 text-center text-3xl font-semibold'>please enter your Email</h1>
+        <h1 className='py-16 text-center text-3xl font-semibold'>please enter your Email</h1>
 
         <form onSubmit={formik.handleSubmit} className="md:w-1/2 w-[90%] mx-auto">
             <div className="relative z-0 w-full mb-5 group">
